@@ -1,6 +1,6 @@
-# Oasis Info Byte Winter Internship - Web Developemt Projects
+# Oasis Info Byte Winter Internship - Web Developement Projects
 
-Welcome to the OIBSIP(Online Internship Projects) repository!This repository contains the projects completed during my webdeveloper projects. The projects were assigned in three levels, and we can select any one of the level to do projects(as difficulty level was same in these three levels).
+Welcome to the OIBSIP(Online Internship Projects) repository!This repository contains the projects completed during my webdesigner internship. The projects were assigned in three levels, and we can select any one of the level to do projects(as difficulty level was same in these three levels).
 
 ## Table of Contents
 - Level 1 Projects
