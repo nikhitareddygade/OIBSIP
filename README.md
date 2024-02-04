@@ -14,18 +14,18 @@ Level 1 consists of three projects that helped me gain a foundational understand
 1. Project 1 - **Education landing Page:**
    - Description: A landing page using HTML,CSS,Javascript.
    - Technologies: HTML,CSS,JavaScript.
-   - Repository: The projects GitHub repository can be found at [Landing page](https://github.com/nikhitareddygade/OIBSIP/tree/main/LandingPage)
+   - Repository: The projects GitHub repository can be found at [Landing page](https://github.com/nikhitareddygade/OIBSIP/tree/main/Task-1)
    - [Live](http://127.0.0.1:3000/Education%20Landing%20Page/index.html)
 
 2. Project 2 - **Portfolio:**
    - Description: A landing page using HTML,CSS,Javascript.
    - Technologies: HTML,CSS,JavaScript.
-   - Repository: The projects GitHub repository can be found at [Portfolio](https://github.com/nikhitareddygade/OIBSIP/tree/main/Portfolio)
+   - Repository: The projects GitHub repository can be found at [Portfolio](https://github.com/nikhitareddygade/OIBSIP/tree/main/Task-2)
    - [Live](http://127.0.0.1:3000/Portfolio/index.html)
 
 3. Project 3 - **Temperature Convertor:**
    - Description: A landing page using HTML,CSS,Javascript.
    - Technologies: HTML,CSS,JavaScript.
-   - Repository: The projects GitHub repository can be found at [Temperature Convertor](https://github.com/nikhitareddygade/OIBSIP/tree/main/temperatureconvertor)
+   - Repository: The projects GitHub repository can be found at [Temperature Convertor](https://github.com/nikhitareddygade/OIBSIP/tree/main/Task-3)
    - [Live](http://127.0.0.1:3000/Temperature%20Convertor/index.html)
      
